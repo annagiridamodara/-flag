@@ -1,0 +1,26 @@
+.top,
+.middle,
+.button{
+    height: 80px;
+    width: 500px;
+}
+
+.top{
+    background-color: #ff9933;
+
+}
+.middle{
+    background-color: white;
+    justify-content: center;
+    display: flex;
+}
+.button{
+    background-color: green;
+}
+.wheel{
+    height:80px ;
+    width: 80px;
+    border-radius: 50%;
+    outline:1px solid darkblue;
+    background-color: blue;
+}
